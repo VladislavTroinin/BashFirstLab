@@ -1,0 +1,4 @@
+USER=vlad
+HOME=/home/vlad
+OLDPWD=/home/vlad
+LOGNAME=vlad
